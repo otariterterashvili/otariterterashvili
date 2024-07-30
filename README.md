@@ -36,7 +36,6 @@ Hello! I'm Otar, a passionate Senior Software Engineer with expertise in full-st
 ### 📫 How to reach me
 
 - Email: terterashviliotari@gmail.com
-- LinkedIn: [Your LinkedIn profile URL]
-- Phone: (+995) 597791593
+- LinkedIn: [https://www.linkedin.com/in/otar-terterashvili-6a7564164]
 
 ### 💡 Fun Fact
