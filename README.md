@@ -29,10 +29,6 @@ Hello! I'm Otar, a passionate Senior Software Engineer with expertise in full-st
 
 - BSc in Computer Engineering, Business and Technology University (BTU)
 
-### 🌟 Key Projects
-
-[You can add links to your pinned repositories or describe key projects here]
-
 ### 📫 How to reach me
 
 - Email: terterashviliotari@gmail.com
