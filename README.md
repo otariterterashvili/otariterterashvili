@@ -1,6 +1,6 @@
 # Otar Terterashvili
 
-## 👨‍💻 Senior Software Engineer | Full Stack & Mobile Developer
+## 👨‍💻 Senior Software Engineer
 
 Hello! I'm Otar, a passionate Senior Software Engineer with expertise in full-stack web development and mobile app creation. I specialize in building scalable, efficient, and user-friendly applications using cutting-edge technologies.
 
