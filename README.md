@@ -2,7 +2,13 @@
 
 ## 👨‍💻 Senior Software Engineer
 
-Hello! I'm Otar, a passionate Senior Software Engineer with expertise in full-stack web development and mobile app creation. I specialize in building scalable, efficient, and user-friendly applications using cutting-edge technologies.
+Experienced Senior Software Engineer with a passion for building scalable, efficient, and innovative solutions. My journey in software development has taken me from junior backend roles to leading complex projects in mobile, web applications, ETL.
+
+At StaffyAI, I lead the engineering of AI-driven solutions that transform unstructured enterprise data into strategic assets.
+
+Core Tech Stack: 🛠️ Python & Backend Architecture 🤖 LangChain & Open Source LLMs 📚 RAG (Retrieval-Augmented Generation) ⚡ Redis (Context & History Management) ☁️ Microservices & Document Indexing
+
+Outside of work I love playing chess.
 
 ### 🛠 Tech Stack
 
